@@ -1,0 +1,30 @@
+{
+  "_id": {
+    "$oid": "5d59c376bd240a4e68042c1b"
+  },
+  "redskyId": {
+    "$numberInt": "13860428"
+  },
+  "current_price": {
+    "value": {
+      "$numberInt": "24"
+    },
+    "currency_code": "EUR"
+  },
+  "_class": "com.myretail.products.valueobjects.Product"
+}
+{
+  "_id": {
+    "$oid": "5d59d5a2dbe36e1a94a97345"
+  },
+  "redskyId": {
+    "$numberInt": "15117729"
+  },
+  "current_price": {
+    "value": {
+      "$numberInt": "24"
+    },
+    "currency_code": "EUR"
+  },
+  "_class": "com.myretail.products.valueobjects.Product"
+}
