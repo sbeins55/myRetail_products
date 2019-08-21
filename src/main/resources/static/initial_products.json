@@ -1,30 +1,7 @@
-{
-  "_id": {
-    "$oid": "5d59c376bd240a4e68042c1b"
-  },
-  "redskyId": {
-    "$numberInt": "13860428"
-  },
-  "current_price": {
-    "value": {
-      "$numberInt": "24"
-    },
-    "currency_code": "EUR"
-  },
-  "_class": "com.myretail.products.valueobjects.Product"
-}
-{
-  "_id": {
-    "$oid": "5d59d5a2dbe36e1a94a97345"
-  },
-  "redskyId": {
-    "$numberInt": "15117729"
-  },
-  "current_price": {
-    "value": {
-      "$numberInt": "24"
-    },
-    "currency_code": "EUR"
-  },
-  "_class": "com.myretail.products.valueobjects.Product"
-}
+{"_id":{"$oid":"5d59c376bd240a4e68042c1b"},"redskyId":{"$numberInt":"13860428"},"current_price":{"value":"24.99","currency_code":"EUR"},"_class":"com.myretail.products.valueobjects.Product"}
+{"_id":{"$oid":"5d59d5a2dbe36e1a94a97345"},"redskyId":{"$numberInt":"13918060"},"current_price":{"value":{"$numberDouble":"12.99"},"currency_code":"USD"},"_class":"com.myretail.products.valueobjects.Product"}
+{"_id":{"$oid":"5d5b3f37dbe36e1a94a97346"},"redskyId":{"$numberInt":"52537443"},"current_price":{"value":{"$numberDouble":"5.49"},"currency_code":"CAD"},"_class":"com.myretail.products.valueobjects.Product"}
+{"_id":{"$oid":"5d5b3f39dbe36e1a94a97347"},"redskyId":{"$numberInt":"53185172"},"current_price":{"value":{"$numberDouble":"7.29"},"currency_code":"EUR"},"_class":"com.myretail.products.valueobjects.Product"}
+{"_id":{"$oid":"5d5b3f3bdbe36e1a94a97348"},"redskyId":{"$numberInt":"16872646"},"current_price":{"value":{"$numberDouble":"17.99"},"currency_code":"USD"},"_class":"com.myretail.products.valueobjects.Product"}
+{"_id":{"$oid":"5d5b3f42dbe36e1a94a97349"},"redskyId":{"$numberInt":"51097873"},"current_price":{"value":{"$numberDouble":"1.99"},"currency_code":"EUR"},"_class":"com.myretail.products.valueobjects.Product"}
+{"_id":{"$oid":"5d5b3f75dbe36e1a94a9734a"},"redskyId":{"$numberInt":"53143191"},"current_price":{"value":{"$numberInt":"24"},"currency_code":"CAD"},"_class":"com.myretail.products.valueobjects.Product"}
