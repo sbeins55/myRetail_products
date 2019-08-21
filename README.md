@@ -18,7 +18,10 @@ The application was built using a MongoDB. There is not an in-memory representat
 The database was installed and run locally alongside the project as a means for local development. Similar steps will
 need to be taken for anyone else who wishes to run the application locally.
 
-Once MongoDB has been installed locally, you can create database called myRetail with an initial collection of products.
+Once MongoDB has been installed locally:
+ 1. Create a database called `myRetail`
+ 2. Create a collection called `products`
+ 
 A resource that includes initial products to seed the database with can be found at: 
 > Unix: `{rootdir}/src/main/resources/static/initial_products.json` <br/>
 > Windows: `{rootdir}\src\main\resources\static\initial_products.json`
