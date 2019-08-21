@@ -20,7 +20,7 @@ need to be taken for anyone else who wishes to run the application locally.
 
 Once MongoDB has been installed locally, you can create database called myRetail with an initial collection of products.
 A resource that includes initial products to seed the database with can be found at: 
-> Unix: `{rootdir}/src/main/resources/static/initial_products.json`
+> Unix: `{rootdir}/src/main/resources/static/initial_products.json` <br/>
 > Windows: `{rootdir}\src\main\resources\static\initial_products.json`
 
 ### Running the Application
