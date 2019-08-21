@@ -30,7 +30,7 @@ The way the application will run depends on the OS.
 
 #### Windows
 ```bash
-cd root-project-directory
+cd rootdir
 .\mvnw.cmd install
 .\mvnw.cmd spring-boot:run
 ```
@@ -38,7 +38,7 @@ cd root-project-directory
 #### Unix
 
 ```bash
-cd root-project-directory
+cd rootdir
 ./mvnw install
 ./mvnw spring-boot:run
 ```
